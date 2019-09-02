@@ -16,7 +16,7 @@ class RGBL
   // user-accessible "public" interface
   public:
     RGBL(int Blue, int Green, int Red);
-    void Color(int R, int G, int B);
+    void color(int R, int G, int B);
 
   // library-accessible "private" interface
 private:

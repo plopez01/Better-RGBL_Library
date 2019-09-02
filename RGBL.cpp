@@ -27,7 +27,7 @@ RGBL::RGBL(int Blue, int Green, int Red)
 
 // Public Methods //////////////////////////////////////////////////////////////
 // Functions available in Wiring sketches, this library, and other libraries
-void RGBL::Color(int R, int G, int B)
+void RGBL::color(int R, int G, int B)
 {
    analogWrite(Rvalue, R);
    analogWrite(Gvalue, G);

@@ -12,7 +12,7 @@ RGBL       KEYWORD1      RGBL
 # Methods and Functions (KEYWORD2)
 #######################################
 
-Color	KEYWORD2
+color	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
